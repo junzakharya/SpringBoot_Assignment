@@ -1,5 +1,6 @@
 # SpringBoot_Assignment
 Spring Boot Login and Signup API with JWT Authentication
+
 This repository contains a Spring Boot application that implements a login and signup REST API with JWT authentication. It allows users to register, login, and access a protected "hello" endpoint.
 
 Prerequisites:
